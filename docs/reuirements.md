@@ -1,4 +1,3 @@
-```markdown
 # Restaurama Food Delivery App Requirements
 
 This document lists all the key requirements of the Restaurama food delivery app, both functional and non-functional.
@@ -31,4 +30,3 @@ This document lists all the key requirements of the Restaurama food delivery app
 ### Scalability
 - Design services to be containerized for horizontal scaling
 - Use Kubernetes for service orchestration
-```
